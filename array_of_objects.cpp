@@ -1,0 +1,1 @@
+Base* b = new base[3];
